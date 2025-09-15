@@ -1,5 +1,5 @@
 {
-    "name": "arg2009/saml-claims",
+    "name": "arg2009/common-saml-claims",
     "description": "A list of common SAML claims for reference in SAML applications.",
     "type": "library",
     "license": "MIT",
