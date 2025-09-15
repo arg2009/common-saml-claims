@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace Arg2009\SamlClaims\Enums;
+
 enum ClaimType: string
 {
     /**
