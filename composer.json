@@ -1,0 +1,21 @@
+{
+    "name": "arg2009/saml-claims",
+    "description": "A list of common SAML claims for reference in SAML applications.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arg2009\\SamlClaims\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruben Funai",
+            "email": "ruben.funai@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
