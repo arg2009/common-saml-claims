@@ -5,3 +5,8 @@
 
 # Composer
 /vendor/
+
+# PHP CS Fixer
+.php-cs-fixer.php
+.php_cs.cache
+.php-cs-fixer.cache
